@@ -3,7 +3,7 @@ def filtrar(lista):
     return minusculas
 
 # Ejemplo de uso:
-words = ["Hola", "world", "Python", "progr", "is", "fun"]
+words = ["Hol", "woAYYY", "Python", "XSUprogr", "is", "fun"]
 lowercase_words = filtrar(words)
 print("Palabras en minúsculas:", lowercase_words)
-hola hola
+print("Palabras en minúsculas:", lowercase_words)
